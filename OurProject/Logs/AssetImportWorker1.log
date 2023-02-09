@@ -167,3 +167,147 @@ Received Import Request.
   path: Assets/Readme.asset
   artifactKey: Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2f2b655bf21bdea72856b1c39a4a32') in 0.023528 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003652 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\SloydGameJam\OurProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\SloydGameJam\OurProject\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Domain Reload Profiling:
+	ReloadAssembly (851ms)
+		BeginReloadAssembly (191ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (593ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (184ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (155ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4580 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (0.9 MB). Loaded Objects now: 5162.
+Memory consumption went from 180.0 MB to 179.1 MB.
+Total: 3.769500 ms (FindLiveObjects: 0.282600 ms CreateObjectMapping: 0.154600 ms MarkObjects: 2.939200 ms  DeleteObjects: 0.392200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4996.404140 seconds.
+  path: Assets/Models/Environment/Altars.obj
+  artifactKey: Guid(d0225e7d370099a4f813fa6d1cca6a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Altars.obj using Guid(d0225e7d370099a4f813fa6d1cca6a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5259cf6c44f023d91550d0ed939d4f8') in 1.386688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Models/Environment/Tomb Stones (3).obj
+  artifactKey: Guid(abad1d0096fb4134a98c5f1a1274647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Tomb Stones (3).obj using Guid(abad1d0096fb4134a98c5f1a1274647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613632ec101e690835e779265ef4b552') in 0.031833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Models/Environment/Swords.obj
+  artifactKey: Guid(4a621b91726537747b853d51b3dc35bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Swords.obj using Guid(4a621b91726537747b853d51b3dc35bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058dcd26bc74bad12e4d9de57806c37d') in 0.024497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Models/Environment/Log Cabins.obj
+  artifactKey: Guid(79b2a392ab8b92e46ac4cdafb5ea13fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Log Cabins.obj using Guid(79b2a392ab8b92e46ac4cdafb5ea13fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1058833b144056b92204f0ccc9571f') in 0.026188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Models/Environment/Portals (2).obj
+  artifactKey: Guid(0dcca384a6d5127408b2985dca50ef0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Portals (2).obj using Guid(0dcca384a6d5127408b2985dca50ef0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61840ed09ee190cb4a818fa28d7f9059') in 0.029415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Models/Environment/Zeppelins (1).obj
+  artifactKey: Guid(ca5c08ac84db44a45b6ae2c2e211cbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Zeppelins (1).obj using Guid(ca5c08ac84db44a45b6ae2c2e211cbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3940c1cb1544eebfcbfc718c8cf75993') in 0.031122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Models/Environment/Cannons.obj
+  artifactKey: Guid(cfedb709d580e4a48a9e2ced2a9ffa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Cannons.obj using Guid(cfedb709d580e4a48a9e2ced2a9ffa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67dc64e74ad6c8ea17139e5f59bc6698') in 0.022815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Environment/Flower Urns.obj
+  artifactKey: Guid(d6604855813d2c04fa42eb0f848e5bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Flower Urns.obj using Guid(d6604855813d2c04fa42eb0f848e5bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160459ace4eccc6be2f5b62f990dfc9d') in 0.023438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Environment/Swords (1).obj
+  artifactKey: Guid(f4a11f62485e43446bd1579b9cf4756a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Swords (1).obj using Guid(f4a11f62485e43446bd1579b9cf4756a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af961acbda6c9765b1689234181312ea') in 0.022602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Models/Environment/Rings (1).obj
+  artifactKey: Guid(ac96bcc2ba2baa84bb1cfdf2ba6993f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Rings (1).obj using Guid(ac96bcc2ba2baa84bb1cfdf2ba6993f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60068cca20c22a986dc0c0b37ac1ca6') in 0.038724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Models/Environment/Candles (1).obj
+  artifactKey: Guid(d0272a18225b2c742a9f896c18402943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Candles (1).obj using Guid(d0272a18225b2c742a9f896c18402943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc5942da5ad2e820a8f27e3badaafe7') in 0.031156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/Environment/Tomb Stones.obj
+  artifactKey: Guid(512c7038dddb71c419f44cc641b041e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Tomb Stones.obj using Guid(512c7038dddb71c419f44cc641b041e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ea8bb1b2c33b9d780b4fc7457cfbee') in 0.031607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/Environment/Candles.obj
+  artifactKey: Guid(cbc0f7e2b9128c64999ff0c59719a838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Candles.obj using Guid(cbc0f7e2b9128c64999ff0c59719a838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0c89b35a4bdf81f7024798d3ba228f') in 0.022289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Models/Environment/Tomb Stones (2).obj
+  artifactKey: Guid(43d3e6ea4760d414e833ec740575b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Environment/Tomb Stones (2).obj using Guid(43d3e6ea4760d414e833ec740575b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81253b2a2aa98599511dd8b67f97f061') in 0.022539 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
