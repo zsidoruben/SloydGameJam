@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Bed
   - Click
+  - Sword
+  - Pistol
+  - Uzi
   layers:
   - Default
   - TransparentFX
